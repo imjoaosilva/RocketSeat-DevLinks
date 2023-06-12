@@ -1,7 +1,7 @@
 
 # Dev Links
 
-Um pequeno website desenvolvido com react a partir do design da rocketseat.
+A small website developed with react from the rocketseat design.
 
 
 ## Preview
@@ -9,10 +9,15 @@ Um pequeno website desenvolvido com react a partir do design da rocketseat.
 ![App Screenshot](https://cdn.discordapp.com/attachments/797566430345953300/1117961604554821652/image.png)
 
 
-## Stack utilizada
+## Demo
+
+https://z4-devlinks.vercel.app
+
+
+## Stack Used
 
 **Front-end:** React, Styled-Components
-## Rodando localmente
+## Running locally
 
 Clone the project
 
